@@ -1,0 +1,12 @@
+
+node_ modules
+
+package-lock.jason
+
+package.json
+
+.env
+
+permission_json
+
+.DS_Store

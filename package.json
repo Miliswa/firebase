@@ -1,0 +1,22 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^9.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev":"nodemon index",
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Miliswa",
+    "Marantsela"
+  ],
+  "author": "Miliswa Marantsela",
+  "license": "ISC"
+}
